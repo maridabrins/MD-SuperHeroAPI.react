@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+:root{
+    --color-red : #C01C1C;
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+
+    --font-primary: 'Jersey 10';
+    --font-secundary: 'Open-sans';
+}
+
+h1{
+    font: var(--color-red);
+    font-family: var(--font-primary);
+}
