@@ -1,13 +1,8 @@
-
-import './App.css';
-import { Main } from './Components/Main';
-
-function App() {
+import Home from "./Components/Home";
+export default function App(){
   return (
-   <>
-   <Main></Main>
-   </>
-  );
+    <>
+    <Home></Home>
+    </>
+  )
 }
-
-export default App;
