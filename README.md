@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	🚧 API SuperHero - Em construção 🚧
+	🚀✅ API SuperHero - Concluído ✅🚀
 </h1>
  
 
@@ -19,7 +19,7 @@
 
 
 ## 🖥 Layout
-foto da tela inicial
+![Web1](https://github.com/maridabrins/MD-SuperHeroAPI.react/blob/main/layout.PNG)
 
 ## 🔧 Tools
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
